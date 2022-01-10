@@ -29,6 +29,7 @@
     "babel-plugin-react-docgen": "^4.1.0",
     "pnp-webpack-plugin": "^1.7.0",
     "@storybook/react-docgen-typescript-plugin": "canary",
+    "react-scripts": "^4.0.3",
     "semver": "^7.3.5"
   },
   "devDependencies": {
@@ -39,8 +40,7 @@
   "peerDependencies": {
     "@babel/core": "*",
     "@storybook/node-logger": "*",
-    "@storybook/react": ">=5.2",
-    "react-scripts": ">=3.0.0"
+    "@storybook/react": ">=5.2"
   },
   "publishConfig": {
     "access": "public"
